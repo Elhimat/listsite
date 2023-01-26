@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-b^zs)kbl@!@9z3k*gn_l*ejl1jb(f1ggl*^8j1ev9jc1xj(4o+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS =['*']
+CSRF_TRUSTED_ORIGINS =['https://listsite-production.up.railway.app']
 
 
 # Application definition
